@@ -1,5 +1,7 @@
 <h3 align="left">I'm Robinson Honour Amadi, a 18-year-old tech enthusiast with a deep-rooted passion for the digital realm. As a self-taught programmer, I've immersed myself in the world of web development, app development, robotics, cloud computing, and game development for the past six years. Driven by an insatiable curiosity and a knack for problem-solving, I'm always eager to explore new frontiers in technology.</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ikwerre-dev&hide_total_contributions=true)](https://git.io/streak-stats)
+
 ###
 
 <div align="center">
