@@ -1,6 +1,10 @@
 <h3 align="left">I'm Robinson Honour Amadi, a 18-year-old tech enthusiast with a deep-rooted passion for the digital realm. As a self-taught programmer, I've immersed myself in the world of web development, app development, robotics, cloud computing, and game development for the past six years. Driven by an insatiable curiosity and a knack for problem-solving, I'm always eager to explore new frontiers in technology.</h3>
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ikwerre-dev&theme=default&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ikwerre-dev&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikwerre-dev&theme=default&show_icons=true&hide_border=true&count_private=true)
 ###
 
 <div align="center">
