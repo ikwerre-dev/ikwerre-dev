@@ -1,6 +1,6 @@
 <h2 align="center" style="font-size:1rem">Hi 👋, I'm Robinson Honour, an 18-year-old tech enthusiast from Port Harcourt, Nigeria with six years of hands-on experience in the tech world. As a self-taught programmer, I specialize in web development, app development, robotics, cloud computing, and game development. Fueled by curiosity and a passion for problem-solving, I’m constantly exploring the cutting edge of technology. Let’s connect and build something amazing together</h2>
 <h3 align="center">A passionate Fullstack Web, App and Embedded Systems developer</h3>
- <p><img align="center" style="width:100%" src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="ikwerre-dev" /></p>
+ <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="ikwerre-dev" /></p>
 <p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikwerre-dev&theme=highcontrast" alt="ikwerre-dev" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikwerre-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="ikwerre-dev" /> </p>
 
