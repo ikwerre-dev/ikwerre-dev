@@ -4,7 +4,7 @@
 <p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikwerre-dev&theme=highcontrast" alt="ikwerre-dev" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikwerre-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="ikwerre-dev" /> </p>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ikwerre-dev"/></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikwerre-dev" alt="ikwerre-dev" /></a> </p>
