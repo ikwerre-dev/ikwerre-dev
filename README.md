@@ -3,7 +3,7 @@
  <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="ikwerre-dev" /></p>
 <p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikwerre-dev&theme=highcontrast" alt="ikwerre-dev" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikwerre-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="ikwerre-dev" /> </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ikwerrre-dev)](https://git.io/streak-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikwerre-dev" alt="ikwerre-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/honour_can_code" target="blank"><img src="https://img.shields.io/twitter/follow/honour_can_code?logo=twitter&style=for-the-badge" alt="honour_can_code" /></a> </p>
