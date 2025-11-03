@@ -92,11 +92,10 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://streak-stats.demolab.com?user=ikwerre-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
   <a href="https://open.spotify.com/user/316igfvdcenfzlaguaswlffm6sfu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316igfvdcenfzlaguaswlffm6sfu&count=2&unique=true&width=300" alt="Spotify recently played" />
   </a>
 </div>
-
  
