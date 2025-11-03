@@ -27,10 +27,9 @@
 I am Robinson Honour, a Nigerian software developer, speaker, and tech creator. At just 19, I’ve built up over 7.5 years of experience in web development, app development, robotics, cloud computing, and game development. <br><br>
 Founder & CEO of <a href="https://pxxl.app" target="_blank">Pxxl App</a> — a cloud deployment platform enabling instant deployment of websites, APIs, and databases with zero configuration. <br><br>
 Currently a Frontend Developer at Steadfast Int. and Fullstack Developer at TheEcommerceBoss <br><br>
-I’m passionate about building scalable, user-focused digital products and mentoring young developers. Visit my <a href="https://robinsonhonour.me" target="_blank">portfolio</a> to learn more about my projects, talks, and blog. <br><br>
+Visit my <a href="https://robinsonhonour.me" target="_blank">portfolio</a> to learn more about my projects, talks, and blog. <br><br>
 
 </p>
-###
 
 <h3 align="left">🛠 Most Used Language and tools</h3>
 
