@@ -68,9 +68,9 @@
 
  
 <div align="start" style="display: flex; justify-content: space-between; align-items: space-between; gap: 20px; flex-wrap: wrap;">
-  <img src="https://streak-stats.demolab.com?user=ikwerre-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=ikwerre-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="240" alt="streak graph" />
   <a href="https://open.spotify.com/user/316igfvdcenfzlaguaswlffm6sfu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316igfvdcenfzlaguaswlffm6sfu&count=2&unique=true&width=500" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316igfvdcenfzlaguaswlffm6sfu&count=3&unique=true&width=500" alt="Spotify recently played" />
   </a>
 </div>
  
