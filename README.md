@@ -12,14 +12,12 @@
   <a href="https://x.com/honour_can_code" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=ikwerre-dev&label=Profile%20views&color=0e75b6&style=flat-square"  />
+    
+  </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ikwerre-dev.ikwerre-dev&"  />
-</div>
-
+ 
 ###
 
 <h3 align="left">👩‍💻  About Me?</h3>
