@@ -1,23 +1,121 @@
-<h2 align="center" style="font-size:1rem">Hi 👋, I'm Robinson Honour, an 19-year-old tech enthusiast from Port Harcourt, Nigeria with six years of hands-on experience in the tech world. As a self-taught programmer, I specialize in web development, app development, robotics, cloud computing, and game development. Fueled by curiosity and a passion for problem-solving, I’m constantly exploring the cutting edge of technology. Let’s connect and build something amazing together</h2>
- <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="ikwerre-dev" /></p>
-<p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikwerre-dev&theme=highcontrast" alt="ikwerre-dev" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikwerre-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="ikwerre-dev" /> </p>
- 
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ikwerredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ikwerredev" height="30" width="40" /></a>
-<a href="https://twitter.com/honour_can_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="honour_can_code" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/robinsonhonouramadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robinsonhonouramadi" height="30" width="40" /></a>
-<a href="https://instagram.com/robinsonhonour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robinsonhonour" height="30" width="40" /></a>
-<a href="https://hashnode.com/@robinsonhonouramadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@robinsonhonouramadi" height="30" width="40" /></a>
-<a href="https://medium.com/@codewithhonour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codewithhonour" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithhonour1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithhonour1" height="30" width="40" /></a>
-</p>
+<h1 align="center">Yo! I'm Honour</h1>
 
- 
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikwerre-dev&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="ikwerre-dev" /></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/robinsonhonouramadi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@codewithhonour1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/honour_can_code" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikwerre-dev&show_icons=true&theme=highcontrast&locale=en" alt="ikwerre-dev" /></p>
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ikwerre-dev.ikwerre-dev&"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  About Me?</h3>
+
+###
+
+<p align="left">I am Robinson Honour, a Nigerian software developer, speaker and tech creator. At just 19, I’ve built up over 7.5 years of experience in web development, app development, robotics, cloud computing and game development.  <br><br>Founder, Pxxl (https://pxxl.app)</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ikwerre-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/316igfvdcenfzlaguaswlffm6sfu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316igfvdcenfzlaguaswlffm6sfu&count=2&unique=true&width=300" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikwerre-dev/ikwerre-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikwerre-dev/ikwerre-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ikwerre-dev/ikwerre-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/ikwerre-dev/ikwerre-dev/output/snake.svg" alt="Snake animation" />
+
+###
