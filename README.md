@@ -10,10 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikwerre-dev" alt="ikwerre-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/honour_can_code" target="blank"><img src="https://img.shields.io/twitter/follow/honour_can_code?logo=twitter&style=for-the-badge" alt="honour_can_code" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
