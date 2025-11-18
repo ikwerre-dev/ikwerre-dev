@@ -18,15 +18,12 @@
   </a>
 </div>
  
-###
-
-<h3 align="left">👩‍💻  About Me?</h3>
-
+ 
 ###
 <p align="left">
-I am Robinson Honour, a Nigerian software developer, speaker, and tech creator. At just 19, I’ve built up over 7.5 years of experience in web development, app development, robotics, cloud computing, and game development. <br><br>
+I'm Robinson Honour, a Nigerian software developer and tech creator. At just 19, I’ve built up over 7.5 years of experience in web development, app development, robotics, cloud computing, and game development. <br><br>
 Founder & CEO of <a href="https://pxxl.app" target="_blank">Pxxl App</a> — a cloud deployment platform enabling instant deployment of websites, APIs, and databases with zero configuration. <br><br>
 Currently a Frontend Developer at Steadfast Int. and Fullstack Developer at TheEcommerceBoss <br><br>
-Visit my <a href="https://robinsonhonour.me" target="_blank">portfolio</a> to learn more about my projects, talks, and blog. <br><br>
+Checkout my <a href="https://robinsonhonour.me" target="_blank">portfolio</a><br>
 
 </p> 
