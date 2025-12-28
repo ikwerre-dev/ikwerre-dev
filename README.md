@@ -1,4 +1,4 @@
-Robinson Honour, Nigerian software developer and tech creator with over 7.5 years of experience building production-grade applications across web, mobile, robotics, and cloud infrastructure.
+**Robinson Honour** - Nigerian software developer and tech creator with over 7.5 years of experience building production-grade applications across web, mobile, robotics, and cloud infrastructure.
 
 
 ```typescript
@@ -66,19 +66,7 @@ Official tour website for Nigerian musician Olamide (Baddo), handling ticket sal
 
 ---
 
-
-### Zgnis Analytics - Waste Management Platform
-Advanced waste management analytics with real-time monitoring and data visualization.
-
-**Technical Implementation:**
-- Real-time data processing
-- Interactive dashboards
-- Predictive analytics
-- IoT sensor integration
-
-[View Project →](https://robinsonhonour.me/projects/zgnis)
-
----
+ 
 
 ## Tech Stack
 
@@ -94,8 +82,7 @@ Advanced waste management analytics with real-time monitoring and data visualiza
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
-
+ 
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://robinsonhonour.me)
@@ -104,20 +91,4 @@ Advanced waste management analytics with real-time monitoring and data visualiza
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://robinsonhonour.me/blog)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://robinsonhonour.me/resume.pdf)
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikwerre-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-
-**Building the future, one line of code at a time.**
-
-Copyright © 2025 Robinson Honour
-
-</div>
+  
