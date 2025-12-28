@@ -1,6 +1,5 @@
-# Robinson Honour
+Robinson Honour, Nigerian software developer and tech creator with over 7.5 years of experience building production-grade applications across web, mobile, robotics, and cloud infrastructure.
 
-Full-Stack Developer | Cloud Infrastructure | Robotics
 
 ```typescript
 interface Developer {
@@ -22,11 +21,7 @@ const me: Developer = {
 
 ---
 
-## About Me
-
-Nigerian software developer and tech creator with over 7.5 years of experience building production-grade applications across web, mobile, robotics, and cloud infrastructure. Specialized in creating scalable solutions that serve thousands of users.
-
----
+ 
 
 ## Featured Projects
 
@@ -71,122 +66,6 @@ Official tour website for Nigerian musician Olamide (Baddo), handling ticket sal
 
 ---
 
-### UNCUTXTRA Awards Voting Platform
-Official voting platform for UNCUTXTRA Award Night 4.0 with real-time vote tracking.
-
-**Implementation:**
-- Real-time vote counting
-- Fraud prevention mechanisms
-- Scalable architecture
-- Admin dashboard
-
-[View Project →](https://robinsonhonour.me/projects/uncutxtra-vote)
-
----
-
-### Myticketseller - Event Ticketing Platform
-Comprehensive ticket selling platform for events, concerts, and performances.
-
-**Features:**
-- Ticket marketplace
-- Secure payment processing
-- QR code generation
-- Event analytics
-
-[View Project →](https://robinsonhonour.me/projects/myticketseller)
-
----
-
-### NaijaFoodFestival
-Platform for Africa's biggest food festival celebrating Nigerian culture, innovation, and community.
-
-**Capabilities:**
-- Event registration system
-- Vendor management
-- Interactive festival map
-- Real-time updates
-
-[View Project →](https://robinsonhonour.me/projects/naijafoodfestival)
-
----
-
-### PayForeign - International Payment Gateway
-Cross-border payment platform facilitating international transactions and currency conversions.
-
-**Technical Features:**
-- Multi-currency support
-- Real-time exchange rates
-- Secure transaction processing
-- Compliance with international standards
-
-[View Project →](https://robinsonhonour.me/projects/payforeign)
-
----
-
-### Steadfast Int - E-commerce Platform
-Specialized e-commerce solution for lighting and electrical fittings.
-
-**Features:**
-- Product catalog management
-- Inventory tracking
-- Order processing
-- Customer portal
-
-[View Project →](https://robinsonhonour.me/projects/steadfast)
-
----
-
-### Ondepay Virtual Card V2
-Enhanced digital payment solution with advanced virtual card management capabilities.
-
-**Improvements:**
-- Redesigned user interface
-- Enhanced security features
-- Real-time transaction notifications
-- Card customization options
-
-[View Project →](https://robinsonhonour.me/projects/ondepay)
-
----
-
-### RunMeCV AI - AI-Powered Resume Builder
-Intelligent resume builder with professional templates and AI-powered content suggestions.
-
-**AI Features:**
-- Smart content suggestions
-- Real-time editing
-- ATS optimization
-- Multiple export formats
-
-[View Project →](https://robinsonhonour.me/projects/runmecv)
-
----
-
-### SME Unwind 2024
-Platform connecting small and medium-sized enterprises with investors and potential partners.
-
-**Capabilities:**
-- Business matchmaking
-- Investor directory
-- Networking tools
-- Event management
-
-[View Project →](https://robinsonhonour.me/projects/sme-unwind)
-
----
-
-### EHR Clothing Brand
-E-commerce platform for healthcare professional apparel.
-
-**Features:**
-- Product customization
-- Size recommendation system
-- Bulk ordering
-- Professional branding
-
-[View Project →](https://robinsonhonour.me/projects/ehr-clothing)
-
----
 
 ### Zgnis Analytics - Waste Management Platform
 Advanced waste management analytics with real-time monitoring and data visualization.
@@ -198,19 +77,6 @@ Advanced waste management analytics with real-time monitoring and data visualiza
 - IoT sensor integration
 
 [View Project →](https://robinsonhonour.me/projects/zgnis)
-
----
-
-### ClanShare - File Sharing Platform
-Instant file sharing with secure link generation and seamless user experience.
-
-**Features:**
-- Drag-and-drop uploads
-- Secure link generation
-- Expiring links
-- No registration required
-
-[View Project →](https://robinsonhonour.me/projects/clanshare)
 
 ---
 
