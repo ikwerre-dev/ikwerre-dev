@@ -27,27 +27,14 @@ const me: Developer = {
 
 ### Pxxl App - Cloud Deployment Platform
 Enterprise-grade cloud deployment platform enabling instant deployment of websites, APIs, and databases with zero configuration.
-
-**Key Features:**
-- Zero-configuration deployments
-- Automatic SSL/TLS certificates
-- Real-time deployment logs
-- Container orchestration
-- Custom domain management
-
+ 
 [View Project →](https://robinsonhonour.me/projects/pxxl)
 
 ---
 
 ### EmojiDB - Lightweight Database Engine
 High-performance, encrypted database engine with Node.js SDK for modern applications.
-
-**Technical Implementation:**
-- Binary protocol for efficient communication
-- AES encryption for data security
-- Schema versioning and migrations
-- Cross-platform support (macOS, Linux, Windows)
-- Zero-dependency core engine
+ 
 
 [View Project →](https://github.com/ikwerre-dev/EmojiDB)
 
@@ -55,13 +42,7 @@ High-performance, encrypted database engine with Node.js SDK for modern applicat
 
 ### Olamide's Tour Website
 Official tour website for Nigerian musician Olamide (Baddo), handling ticket sales and event management.
-
-**Features:**
-- Tour schedule management
-- Integrated ticket purchasing
-- Event information system
-- Mobile-responsive design
-
+ 
 [View Project →](https://robinsonhonour.me/projects/olamide)
 
 ---
