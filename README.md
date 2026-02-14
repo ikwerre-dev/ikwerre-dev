@@ -1,4 +1,4 @@
-**Robinson Honour** - Nigerian software developer and tech creator with over 7.5 years of experience building production-grade applications across web, mobile, robotics, and cloud infrastructure.
+**Robinson Honour** - Nigerian software developer and tech creator with over 8.5 years of experience building production-grade applications across web, mobile, robotics, and cloud infrastructure.
 
 
 ```typescript
@@ -12,8 +12,7 @@ interface Developer {
 
 const me: Developer = {
     name: "Robinson Honour",
-    age: 19,
-    experience: "7.5+ years",
+    experience: "8.5+ years",
     focus: ["Web Development", "Mobile Apps", "Robotics", "DevOps", "Cloud Infrastructure"],
     location: "Nigeria",
 };
